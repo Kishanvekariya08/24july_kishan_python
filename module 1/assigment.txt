@@ -1,0 +1,81 @@
+1] What is software ? what is software engineering ?
+ 
+   Software is a collection of computer programe data and also related data that was provide the instruction to computer that what to do and how to do.
+
+   Software engineering is the process of developing, testing and maintaining software. it is systematic approach.
+
+
+2) Expline types of software ? 
+
+Introduction:-
+             Software is a collection of computer programe data and also related data that was provide the instruction to computer that what to do and how to do.
+
+Software engineering is the process of developing, testing and maintaining software. it is systematic approach.
+
+Types:-  
+    Software in main 3 types are,
+    I) System softwar:-
+                       System software provide basic functions for computer to use and helps to run the computer system. 
+
+    II) application software:-
+                      Application software means that type of software that run tasks in applications and browzer that is given by the host.
+                
+     Application software in to main 3 typr are...
+
+              i) Mobile App: Application that run in mobile.
+                  
+              ii) Web App: apps that run in web and browser.
+                  
+              iii) deskstop App: Application that run in the desktop or leptop.   
+ 
+    III) programming software:-
+                      Programming software means host is gaven the comand to the computer that to run in program.  
+   
+3) What is SDLC? Explain each phase od SDLC?
+    
+       SDLC means software development life cycle that was step of defind process for creating high level of software.  
+
+       SDLC in main 6 phese are...
+
+       i) planning : first to create plan for any project 
+    
+       ii) analysis : next to analsis about that project  
+     
+       iii) designing : create desing of the particular project how to start the work 
+     
+       iv) implementation : then that to apply to crate that project 
+    
+       v) testing : that project to put in the real world for testing 
+    
+       vi) mainntenance : that project to maintence regulary and update that on time 
+
+4) What is DFD? 
+  
+      DFD means data flow diagrams that was flow of data inside of application. 
+
+      DFD in 4 elements...
+  
+       I) External entry
+     
+       II) process
+     
+       III) data flow 
+     
+       IV) data store
+ 
+5) What is Flow chart? Create a flowchart to make addition of two number.
+   
+      Flow chart means step of the programing process. 
+   
+      flow chart in main 3 types are....
+   
+      I) linear program structure : one streat line process structure 
+    
+      II) branching program structure : steps in to 2 or more departement in to the program 
+   
+      III) looping program structure : steps in any mistake create that return that step that mistake slowe than after next step is create 
+
+6) What is use case diagram? create a use-case on bill payment on paytm.
+ 
+       use case diagram means different different department of different different use, like in paytm in to customers for some limited facility are but all the facility are under the opperater that was edit all the things in to the application but customer are not doing this that was different between two department.   
+
